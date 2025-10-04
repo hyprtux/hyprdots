@@ -1,3 +1,4 @@
 # hyprdots
 My hyprland setup
-<img width="1884" height="1024" alt="image" src="https://github.com/user-attachments/assets/2a8f7226-9753-4d24-b5be-9856c84d5738" />
+<img width="1921" height="1081" alt="image" src="https://github.com/user-attachments/assets/038d15e5-cc6c-48e1-ae10-147bcd893d32" />
+
